@@ -1,0 +1,1 @@
+@include('Dashboard.partials.head')
